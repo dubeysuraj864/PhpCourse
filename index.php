@@ -111,11 +111,47 @@
 
 
 
+//             $favfood = "Pizza";
+//             switch ($favfood){
+//                 case "burger":
+//                     echo "Cheeze burgers are delicious";
+//                     break;
+
+//                     case "franchfries":
+//                         echo "Franchfries are patatoes lol";
+//                         break;
+
+//                         case "Pizza":
+//                             echo "Pizza with extra cheez that all i love";
+//                             break;
+
+//                             default:
+// echo "You should order your food on zamato.";
+// }
             
 
+            // $a = 1;
+
+            // // while($a <= 10){
+            // //     echo $a;
+            // //     $a++;
+            // // }
+            //     for($a = 1; $a < 10 ; $a++){
+            //         echo $a;
+            //     }
+
+
+
+                    // PHP arrays
+
+                    $data = array("23","213","45");
+                    echo
 
 
        ?>
+
+
+
    
 <!-- <script src="JS/bootstrap.min.js"></script> -->
 </body>
