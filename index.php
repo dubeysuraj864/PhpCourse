@@ -10,30 +10,30 @@
 <body>
 
        <?php 
-       echo "Stranger, Things", " \n The 5 Second rule <h1>studentstutorial.com</h1>";
+    //    echo "Stranger, Things", " \n The 5 Second rule <h1>studentstutorial.com</h1>";
       
-       echo "<marquee > <b>fg</marquee> " ;
+    //    echo "<marquee > <b>fg</marquee> " ;
 
     //    THE DIFFERENCE BTW PRINT AND ECHO IS ECHO CAN HAVE MULTIPLE STRINGS OR PRINT CANT
 
 
 
-    $a = "Suraj";
-    $b = "Dubey";
-    $c = 65;
-    $d = 54;
+    // $a = "Suraj";
+    // $b = "Dubey";
+    // $c = 65;
+    // $d = 54;
 
-    echo "$a <br> $b <br> $c";
-    print "<h1>$a</h1>";
-    print " $b<br>";
-    echo $c + $d;
+    // echo "$a <br> $b <br> $c";
+    // print "<h1>$a</h1>";
+    // print " $b<br>";
+    // echo $c + $d;
 
 
     //In php there are 9 superglobal variable available these are:
     
     // $GLOBALS
 
-    
+
     // $_SERVER - is an superglobal variable containing information such as header,paths, and script locations.
     
     
@@ -57,6 +57,61 @@
     // $_ENV
     // $_COOKIE
     // $_SESSION
+
+
+        /*
+        php string 
+
+  
+        */
+        // $a = "hello world";
+        // echo $a;
+
+        // // php integer
+        // $b = 345;
+        // $c = 234;
+     
+        // echo "<br>";
+        // echo $b + $c;
+
+
+        // var_dump($a);
+        // The var_dump() function dumps information about one or more variables. The information holds type and value of the variable(s).
+
+        // string(11) "hello world"
+            
+                // $b = 342.435;
+
+
+        // $a = NULL;
+
+        // var_dump($a);
+        // A variable of type null is a variable without any data.
+
+        // $a = "suraj";
+        // $b = "dubey";
+
+// if else
+
+        // $c = 12;
+        // $d = 12;
+
+        // echo $a.$b;
+        // echo $c+$d;
+
+
+        // if($c == $d){
+        //     echo "You are right";
+        // }
+        // else{
+        //     echo "Damn, No.";
+        // }
+
+// switch statement
+
+
+
+            
 
 
 
