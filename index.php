@@ -144,9 +144,70 @@
 
                     // PHP arrays
 
-                    $data = array("23","213","45");
-                    echo
+                    // $data = array("23","213","45");
+                    // // echo $data[1];
+                    // echo count($data);
+                    // 1 PHP sort() Array alphabetical order 
 
+// 2 PHP sort() Array numerical order
+
+// 3 PHP rsort() Array alphabetical order
+
+// 4 PHP rsort() Array numerical order
+
+// 5 PHP asort() Array alphabetical order
+
+// 6 PHP arsort() Array numerical order
+
+// 7 PHP ksort() Array alphabetical order
+
+// 8 PHP krsort() Array numerical order
+
+
+
+
+                //   function msg($b){
+                //     $data = array();
+                //     for($i=0; $i<= $b; $i++){
+                //         $data[$i]=$i;
+                //     }
+                //     foreach($data as $element){
+                //         echo $element."<br>" ;
+                //     }
+                //   }
+                //   msg(23);
+
+
+//                 //   Advantages of using functions
+// Code reusability
+// Less code
+// Easy to understand
+// Easy to find error
+
+
+
+
+// $_GET :
+
+// $_GET is super global variable.
+// Data send in GET is visible in URL.
+// Not preferable for send sensitive data.
+// Limitation of send data.(About 2000 character)
+// In GET you send information to server in two way :
+// Through URL
+// Through form
+// <body>
+// <a href=“http://www.example.com/action.php?name=john&age=24">Send</a>
+// </body>
+
+
+// $_POST
+
+// $_GET is super global variable.
+// Data send in POST is not visible in URL.
+// Preferable for send sensitive data.
+// No limitation for send data.
+// In POST you send information to server in one way that is form.
 
        ?>
 
